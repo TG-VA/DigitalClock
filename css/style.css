@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    place-content: center;
+    background-color: black;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+fieldset{
+    padding: 10px 30px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#date{
+    padding: 0 7px;
+    font-weight: 300;
+    font-size: 2rem;
+}
+
+#clock {
+    font-weight: 700;
+    font-size: 6rem;
+}
