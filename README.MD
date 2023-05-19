@@ -3,7 +3,8 @@
 [![https://i.imgur.com/zguXJXg.gif](https://i.imgur.com/zguXJXg.gif "https://i.imgur.com/zguXJXg.gif")](https://i.imgur.com/zguXJXg.gif "https://i.imgur.com/zguXJXg.gif")
 
 ### 📄 Content 
-In this project we develop a digital clock that gives us the date and time of the device which is being used. The main concepts that we put into practice in this project are  [SETTIMEOUT](https://developer.mozilla.org/en-US/docs/Web/API/setTimeout "SETTIMEOUT") and [SETINTERVAL ](https://developer.mozilla.org/en-US/docs/Web/API/setInterval "setInterval() "SETINTERVAL ") apart from the following:
+In this project we develop a digital clock that gives us the date and time of the device which is being used. The main concepts that we put into practice in this project are [SETTIMEOUT](https://developer.mozilla.org/en-US/docs/Web/API/setTimeout "SETTIMEOUT") and [SETINTERVAL](https://developer.mozilla.org/en-US/docs/Web/API/setInterval "SETINTERVAL") apart from the following:
+
 - [setTimeout() global function](https://developer.mozilla.org/en-US/docs/Web/API/setTimeout "setTimeout() global function")
 - [setInterval() global function](https://developer.mozilla.org/en-US/docs/Web/API/setInterval "setInterval() global function")
 - [Template literals (Template strings)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals "Template literals (Template strings)")
@@ -38,7 +39,9 @@ setInterval(() =>{
 [![https://i.imgur.com/zguXJXg.gif](https://i.imgur.com/zguXJXg.gif "https://i.imgur.com/zguXJXg.gif")](https://i.imgur.com/zguXJXg.gif "https://i.imgur.com/zguXJXg.gif")
 
 ### 📄 Introducción
-En este proyecto desarrollamos un reloj digital que nos da la fecha y la hora del dispositivo el cual se este utilizando. Los principales conceptos que ponemos en práctica  en este proyecto son [SETTIMEOUT](https://developer.mozilla.org/en-US/docs/Web/API/setTimeout "SETTIMEOUT") y [SETINTERVAL ](https://developer.mozilla.org/en-US/docs/Web/API/setInterval "setInterval() "SETINTERVAL ")aparte de los siguientes:
+
+En este proyecto desarrollamos un reloj digital que nos da la fecha y la hora del dispositivo el cual se este utilizando. Los principales conceptos que ponemos en práctica en este proyecto son [SETTIMEOUT](https://developer.mozilla.org/en-US/docs/Web/API/setInterval "SETTIMEOUT") y [SETINTERVAL](https://developer.mozilla.org/en-US/docs/Web/API/setTimeout "SETINTERVAL") aparte de los siguientes:
+
 - [setTimeout() global function](https://developer.mozilla.org/en-US/docs/Web/API/setTimeout "setTimeout() global function")
 - [setInterval() global function](https://developer.mozilla.org/en-US/docs/Web/API/setInterval "setInterval() global function")
 - [Template literals (Template strings)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals "Template literals (Template strings)")
